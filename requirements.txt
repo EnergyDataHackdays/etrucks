@@ -1,0 +1,9 @@
+geopy
+openrouteservice
+folium
+pandas
+matplotlib
+openpyxl
+tqdm
+anyio
+seaborn
